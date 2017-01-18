@@ -45,13 +45,13 @@ Ejecutamos el proyecto mediante:
 ## Proyecto JdbcSpring
 -----
 
-_**Descripción**_: Proyecto que introduce como trabajar con la clase JdbcTemplate y concretamente realizando una [consulta](https://docs.spring.io/spring/docs/current/spring-framework-reference/html/jdbc.html#jdbc-JdbcTemplate-examples) y psoteriormente una insercción en la BD (grabar un objeto).
+_**Descripción**_: Proyecto que introduce como trabajar con la clase JdbcTemplate y concretamente realizando una [consulta](https://docs.spring.io/spring/docs/current/spring-framework-reference/html/jdbc.html#jdbc-JdbcTemplate-examples) y posteriormente una insercción en la BD (grabar un objeto).
 
 ##### *Para jugar*
 
 *Estamos en un proyecto spring*: tienes una configuración, en este caso el fichero applicationContext.xml en la carpeta META-INF, vemos que spring creará un objeto jdbcTemplate y un objeto dataSource. Estos objetos son los que necesitas en el método main.      
 
-*Analizando la clase UserDAO*: También spring instancia un objeto de esta clase, viene llamado userDAO, está vez no se indica en XML en el ficheo de configuración, se ha utilizado la notación @Repository. Este objeto es utilizado en el método main, tal como puedes comprobar en app/UserApp.java
+*Analizando la clase UserDAO*: También spring instancia un objeto de esta clase, viene llamado userDAO, está vez no se indica en XML en el ficheo de configuración, se ha utilizado la notación @Repository. Este objeto es utilizado en el método main, tal como puedes comprobar en app/UserApp
 
 ## Modificando 1
 -----
