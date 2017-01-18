@@ -37,7 +37,7 @@ Ejecutamos el proyecto mediante:
 ## Proyeco JdbcSpring
 -----
 
-_**Description**_: Proyecto que introduce como trabajar con la clase JdbcTemplate y concretamente realizando una [consulta](https://docs.spring.io/spring/docs/current/spring-framework-reference/html/jdbc.html#jdbc-JdbcTemplate-examples) y psoteriormente una insercción en la BD (grabar un objeto).
+_**Descripción**_: Proyecto que introduce como trabajar con la clase JdbcTemplate y concretamente realizando una [consulta](https://docs.spring.io/spring/docs/current/spring-framework-reference/html/jdbc.html#jdbc-JdbcTemplate-examples) y psoteriormente una insercción en la BD (grabar un objeto).
 
 ##### *Para jugar*
 
