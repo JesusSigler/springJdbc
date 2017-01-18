@@ -18,7 +18,10 @@ Sencillo tutorial de [spring-jdbc](https://docs.spring.io/spring/docs/current/sp
 # Aproximación JDBC sin usar spring
 -----
 
-Nuestro poryecto trabaja con datos de una BD MySQL, por ello en el POM.xml verás la dependencia sobre la misma, ya que spring-jdbc lo necesita, el componente que termina accediendo al servidor es el conector MySQL.
+## Proyecto JdbcPlain
+-----
+
+Nuestro proyecto trabaja con datos de una BD MySQL, por ello en el POM.xml verás la dependencia sobre la misma, ya que spring-jdbc lo necesita, el componente que termina accediendo al servidor es el conector MySQL.
 
 Tendrás que atender el contenido del ficheo src/main/resources/META-INF/spring/database.properties, adáptalo con los parámetros de la BD existente en tu sistema. Tendrás que crear una BD en tu servidor MySQL, en nuestro caso su nombre db1, y necesitarán una tabla 'user'. La tabla user debe tener tres campos o columnas: id de tipo serial, first_name de tipo text y age de tipo int 
 
