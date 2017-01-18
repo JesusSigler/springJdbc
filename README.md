@@ -4,10 +4,10 @@ Sencillo tutorial de [spring-jdbc](https://docs.spring.io/spring/docs/current/sp
 
 # Tabla de contenidos
 -----
-1. [Aproximación JDBC sin usar spring](#aproximaciónJDBCsinusarspring)
-   * [Proyecto JdbcPlain](#proyectojdbcplain)
-1. [Usando Spring JDBC](#usandospringjdbc)
-   * [Proyecto JdbcSpring](#proyectojdbcspring)
+1. [Aproximación JDBC sin usar spring](#aproximación-jdbc-sin-usar-spring)
+   * [Proyecto JdbcPlain](#proyecto-jdbcplain)
+1. [Usando Spring JDBC](#usando-spring-jdbc)
+   * [Proyecto JdbcSpring](#proyecto-jdbcspring)
    * [Modificando 1](#modificando1)
    * [Modificando 2](#modificando2)
    * [Reflexión 1](#reflexion1)
