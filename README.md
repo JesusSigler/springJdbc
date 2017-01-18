@@ -11,6 +11,7 @@ Sencillo tutorial de [spring-jdbc](https://docs.spring.io/spring/docs/current/sp
    * [Modificando 1](#modificando1)
    * [Modificando 2](#modificando2)
    * [Reflexión 1](#reflexion1)
+   * [Propuesta 1](#propuesta1)
 
 -----
 
