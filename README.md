@@ -8,10 +8,10 @@ Sencillo tutorial de [spring-jdbc](https://docs.spring.io/spring/docs/current/sp
    * [Proyecto JdbcPlain](#proyecto-jdbcplain)
 1. [Usando Spring JDBC](#usando-spring-jdbc)
    * [Proyecto JdbcSpring](#proyecto-jdbcspring)
-   * [Modificando 1](#modificando1)
-   * [Modificando 2](#modificando2)
-   * [Reflexión 1](#reflexion1)
-   * [Propuesta 1](#propuesta1)
+   * [Modificando 1](#modificando-1)
+   * [Modificando 2](#modificando-2)
+   * [Reflexión 1](#reflexión-1)
+   * [Propuesta 1](#propuesta-1)
 
 -----
 
@@ -34,7 +34,7 @@ Ejecutamos el proyecto mediante:
 # Usando Spring JDBC
 -----
 
-## Proyeco JdbcSpring
+## Proyecto JdbcSpring
 -----
 
 _**Descripción**_: Proyecto que introduce como trabajar con la clase JdbcTemplate y concretamente realizando una [consulta](https://docs.spring.io/spring/docs/current/spring-framework-reference/html/jdbc.html#jdbc-JdbcTemplate-examples) y psoteriormente una insercción en la BD (grabar un objeto).
